@@ -76,17 +76,17 @@
 ### 1. 聊天界面展示
 - 展示用户在前端输入问题后，系统返回问答结果的整体效果。
 
-<img src="assets/chat1.png" width="700"/>
+<img src="LangChain-ReAct-Agent-main/assets/chat1.png" width="700"/>
 
 ### 2. Agent 工具调用过程
 - 展示 Agent 在任务处理中调用外部工具或执行中间推理的过程。
   
-<img src="assets/chat2.png" width="700"/>
+<img src="LangChain-ReAct-Agent-main/assets/chat2.png" width="700"/>
 
 ### 3. 报告生成示例
 - 展示系统根据用户数据生成个性化分析报告的结果页面。
 
-<img src="assets/chat3.png" width="700"/>
+<img src="LangChain-ReAct-Agent-main/assets/chat3.png" width="700"/>
 
 
 ---
